@@ -1,5 +1,6 @@
 # Stimulate-26-character-keyboard
-# Yêu cầu : Thiết kế mạch điện tử sử dụng vi xử lý 8051 và một vi mạch 74’138 cùng các cổng logic, vi mạch cần thiết khác để điều khiển LCD và giao tiếp với 26 nút nhấn đơn tại địa chỉ được cho như sau:
+# Yêu cầu : 
+Thiết kế mạch điện tử sử dụng vi xử lý 8051 và một vi mạch 74’138 cùng các cổng logic, vi mạch cần thiết khác để điều khiển LCD và giao tiếp với 26 nút nhấn đơn tại địa chỉ được cho như sau:
 Địa chỉ truy suất	Ngoại vi giao tiếp
 0000H – 7FFFH	Giao tiếp với 27 nút nhấn: được đặt tên từ A đến Z (26 nút) và một nút Shift.
 8000H – AFFFH	Giao tiếp với LCD.
